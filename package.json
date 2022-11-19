@@ -19,7 +19,7 @@
     "react-plotly.js": "^2.4.0",
     "react-plotlyjs": "^0.4.4",
     "react-rt-chart": "^2.0.0",
-    "react-scripts": "3.3.0",
+    "react-scripts": "5.0.1",
     "react-sizeme": "^2.6.10"
   },
   "scripts": {
